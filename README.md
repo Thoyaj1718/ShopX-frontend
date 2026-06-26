@@ -1,4 +1,4 @@
-# ShopX – Backend
+# ShopX 
 
 REST API backend for ShopX, a full-stack e-commerce platform. Built with Node.js, Express, and MongoDB, with JWT authentication and Razorpay payment integration.
 
